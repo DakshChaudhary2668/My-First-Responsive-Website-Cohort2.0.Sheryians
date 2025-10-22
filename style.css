@@ -210,7 +210,7 @@ main section.view5 {
 }
 main section.view5 .card1, main section.view5 .card2, main section.view5 .card3 {
   width: 100%;
-  background-image: url(./Cardimg1.webp);
+  background-image: url(./images/Cardimg1.webp);
   background-size: cover;
   border-radius: 0.7rem;
   aspect-ratio: 1/1;
@@ -249,13 +249,13 @@ main section.view5 .card1 .bottom p, main section.view5 .card2 .bottom p, main s
   text-transform: uppercase;
 }
 main section.view5 .card1 {
-  background-image: url(./Cardimg1.webp);
+  background-image: url(./images/Cardimg1.webp);
 }
 main section.view5 .card2 {
-  background-image: url(./Cardimg2.webp);
+  background-image: url(./images/Cardimg2.webp);
 }
 main section.view5 .card3 {
-  background-image: url(./Cardimg3.webp);
+  background-image: url(./images/Cardimg3.webp);
 }
 main section.view6 {
   display: flex;
