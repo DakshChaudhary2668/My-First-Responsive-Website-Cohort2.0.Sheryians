@@ -33,7 +33,9 @@ This project demonstrates modern UI design, responsiveness, and SCSS workflow ma
 - **Responsive Media Queries**
 - **Google Fonts / Icons (optional)**
 
----
+----
+
+
 
 ## 📂 Folder Structure
 My-First-Responsive-Website-Cohort2.0.Sheryians/
@@ -45,8 +47,7 @@ My-First-Responsive-Website-Cohort2.0.Sheryians/
 ├── preview-mobile.png
 └── other-assets...
 
-yaml
-Copy code
+
 
 ---
 
